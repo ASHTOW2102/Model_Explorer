@@ -7,9 +7,6 @@ Model Explorer is a web application that showcases various AI models deployed by
 **JavaScript Framework**
 Model Explorer is built using React framework. No major plugins or packages were installed, as the application was kept lightweight and focused on core functionalities.
 
-**Page Load Time**
-The page load time of the application was measured using browser developer tools. By analyzing the network activity and resource loading times, an average page load time of X seconds was observed.
-
 **Optimizations**
 To decrease the load time and improve performance, the following optimizations were implemented:
 
