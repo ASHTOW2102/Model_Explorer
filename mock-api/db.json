@@ -1,0 +1,10 @@
+
+
+{
+    "models": [
+      { "id": 1, "name": "GPT-9", "description": "The latest AI model capable of understanding and generating human-like text with unparalleled accuracy and creativity.", "featured": true },
+      { "id": 2, "name": "VisionX", "description": "An advanced image recognition model designed to identify objects, scenes, and even emotions in images with incredible precision.", "featured": false },
+      { "id": 3, "name": "HealthBot", "description": "A revolutionary AI-powered healthcare assistant that can diagnose illnesses, recommend treatments, and provide medical advice with empathy and expertise.", "featured": true }
+    ]
+  }
+  
